@@ -1,6 +1,6 @@
 By Steffen Mossefinn, 2019. 
 
-Based on the Openbox theme "Yellow", by <unknown> as far as I know. Be sure to contact me if you know the original creator so he or she can get the proper credit.
+Based on the Openbox theme "Yellow", by <<unknown>> as far as I know. Be sure to contact me if you know the original creator so he or she can get the proper credit.
 
 Installation:
 
