@@ -5,7 +5,7 @@ Based on the Openbox theme "Yellow", by *unknown* as far as I know. Be sure to c
 **Installation:**
 
 - Simply unzip and copy/move folder to ./themes
-- Open Obconf or Obconf-qt and pick YLOW in the list of themes
+- Run Obconf or Obconf-qt and pick YLOW in the list of themes
 
 **Wallpaper:** https://unsplash.com/photos/p7du8w466-c
 
