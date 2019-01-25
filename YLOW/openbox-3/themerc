@@ -1,0 +1,53 @@
+By Steffen Mossefinn 2019 - Based on "Yellow".
+
+
+
+# Window title colors. Edit hex to change the 
+# colors. Use an online hex tool, like the ones 
+# at www.w3schools.com
+
+window.active.title.bg.color: #bdcebe
+window.inactive.title.bg.color: #d6cbd3
+window.*.label.text.color: #151515
+window.*.button.*.image.color: #f0eae6
+
+# Menu items:
+
+menu*.bg.color: #2D2324
+menu*.text.color: #ffffff
+menu.border.color: #2D2324
+menu.separator.color: #2D2324
+
+# Window borders:
+
+window.handle.width: 0
+window.client.padding.width: 0
+
+# Set border width
+border.width: 0
+
+# Window title padding:
+
+padding.width: 6
+padding.height: 6
+
+# Window title colors
+
+window.*.title.bg: Solid Flat
+window.*.*.bg: Parentrelative
+window.label.text.justify: center
+
+# Openbox menu config:
+
+# Set menu colors
+menu.*.bg: Solid Flat
+
+# Add some padding
+menu.border.width: 20
+
+# Add some submenu padding
+menu.overlap.x: -30
+menu.overlap.y: 0
+
+# Add padding between items
+menu.separator.padding.height: 3
